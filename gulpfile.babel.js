@@ -21,7 +21,7 @@ gulp.task('sample', () => {
 })
 
 gulp.task('clean', () => {
-  del([_distDir])
+  return del([_distDir])
 })
 
 gulp.task('index', () => {
