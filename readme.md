@@ -11,3 +11,6 @@ The provided value 'moz-chunked-arraybuffer' is not a valid enum value of type X
 ```
 
 [issue](https://github.com/mozilla/pdf.js/pull/5531)
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/vagusX/pdfjs2Host.svg)](https://greenkeeper.io/)
